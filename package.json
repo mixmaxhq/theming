@@ -1,5 +1,5 @@
 {
-  "name": "@hugo/theming",
+  "name": "@mixmaxhq/theming",
   "version": "1.0.0",
   "description": "1.0.0",
   "main": "dist/index.js",
