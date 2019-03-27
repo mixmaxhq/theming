@@ -1,6 +1,6 @@
 const fonts = {
   family: {
-    text: '-apple-system, BlinkMacSystemFont, 'Roboto', Helvetica, Arial, sans-serif',
+    text: '-apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif',
   },
   weight: {
     thin: 200,
