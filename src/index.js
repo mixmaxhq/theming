@@ -8,6 +8,6 @@ import theme from 'styled-theming';
 
 export { theme };
 
-import * as token from './tokens';
+import * as tokens from './tokens';
 
-export { token };
+export { tokens };
