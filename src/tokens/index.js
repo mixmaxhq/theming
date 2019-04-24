@@ -1,3 +1,3 @@
-export { colors } from './colors';
+export colors from './colors';
 
-export { fonts } from './fonts';
+export fonts from './fonts';
