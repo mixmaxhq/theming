@@ -12,6 +12,14 @@ const colors = {
       sunset: '#F06000',
     },
   },
+  brand: {
+    default: '#E55CFF',
+    mixmax: '#E55CFF',
+    lake: '#00B8FF',
+    forest: '#0DDD8D',
+    bliss: '#FF51BC',
+    sunset: '#FD7E27',
+  },
   gray: {
     50: '#2D2D2D',
     40: '#575757',
