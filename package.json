@@ -3,6 +3,10 @@
   "version": "1.3.0",
   "description": "1.0.0",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
     "build": "babel src -d dist",
     "build:watch": "babel --watch src -d dist"
