@@ -11,3 +11,7 @@ export { theme };
 import * as tokens from './tokens';
 
 export { tokens };
+
+import * as utils from './utils';
+
+export { utils };

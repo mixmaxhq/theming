@@ -35,6 +35,7 @@ const colors = {
       30: '#89B2F0',
       20: '#B1CBF5',
       10: '#D8E5FA',
+      5: '#EBF2FC',
     },
     mixmax: {
       50: '#9F14BE',
@@ -42,6 +43,7 @@ const colors = {
       30: '#C572D8',
       20: '#D9A1E5',
       10: '#ECD0F2',
+      5: '#F5E7F8',
     },
     lake: {
       50: '#016FBE',
@@ -49,6 +51,7 @@ const colors = {
       30: '#67A9D8',
       20: '#99C5E5',
       10: '#CCE2F2',
+      5: 'E6F0F8',
     },
     forest: {
       50: '#008C0B',
@@ -56,6 +59,7 @@ const colors = {
       30: '#66BA6D',
       20: '#99D19D',
       10: '#CCE8CE',
+      5: '#E6F3E7',
     },
     bliss: {
       50: '#E13182',
@@ -63,6 +67,7 @@ const colors = {
       30: '#ED83B4',
       20: '#F3ADCD',
       10: '#F9D6E6',
+      5: '#FCEAF2',
     },
     sunset: {
       50: '#F06000',
@@ -70,6 +75,7 @@ const colors = {
       30: '#F6A066',
       20: '#F9BF99',
       10: '#FCDFCC',
+      5: '#FDEFE6',
     },
   },
 };
