@@ -21,4 +21,4 @@ function getGrayscaleColor(id = 50) {
   return colors.gray[id];
 }
 
-export default getThemeColor;
+export default getGrayscaleColor;
